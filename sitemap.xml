@@ -1,0 +1,44 @@
+<?xml versi="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+  <loc>http://sajtovistudenata.ict.edu.rs/122_17/</loc>
+  <lastmod>2017-12-03</lastmod>
+  <priority>0.95</priority>
+  <changeFreq>Weekly</changeFreq>
+</url>
+<url>
+  <loc>http://sajtovistudenata.ict.edu.rs/122_17/index.html</loc>
+  <lastmod>2017-12-03</lastmod>
+  <priority>0.95</priority>
+  <changeFreq>Weekly</changeFreq>
+</url>
+<url>
+  <loc>http://sajtovistudenata.ict.edu.rs/122_17/Karijera.html</loc>
+  <lastmod>2017-12-03</lastmod>
+  <priority>0.80</priority>
+  <changeFreq>Weekly</changeFreq>
+</url>
+<url>
+  <loc>http://sajtovistudenata.ict.edu.rs/122_17/Takmicenja.html</loc>
+  <lastmod>2017-12-03</lastmod>
+  <priority>0.60</priority>
+  <changeFreq>Montly</changeFreq>
+</url>
+<url>
+  <loc>http://sajtovistudenata.ict.edu.rs/122_17/Kontakt.html</loc>
+  <lastmod>2017-12-03</lastmod>
+  <priority>0.60</priority>
+  <changeFreq>Montly</changeFreq>
+</url>
+<url>
+  <loc>http://sajtovistudenata.ict.edu.rs/122_17/Oautoru.html</loc>
+  <lastmod>2017-12-03</lastmod>
+  <priority>0.50</priority>
+  <changeFreq>Montly</changeFreq>
+</url>
+<url>
+  <loc>http://sajtovistudenata.ict.edu.rs/122_17/Galerija.html</loc>
+  <lastmod>2017-12-03</lastmod>
+  <priority>0.50</priority>
+  <changeFreq>Montly</changeFreq>
+</urlset>
